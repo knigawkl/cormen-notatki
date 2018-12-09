@@ -1,0 +1,3 @@
+Programowanie dynamiczne stosujemy gdy podproblemy mogą zawierać te same podproblemy.
+Każdy pdoproblem rozwiązuje się tylko raz, po czym zapamiętuje się wynik, unikając wielokrotnych obliczeń tego samego podproblemu.
+PD jest zwykle stosowane do problemów optymalizacyjnych.
