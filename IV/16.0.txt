@@ -1,0 +1,4 @@
+Algorytm zachłanny == greedy algorithm
+AZ dokonuje zawsze wyboru, który wydaje się w danej chwili najkorzystniejszy. 
+Dokonywany jest lokalnie optymalny wybór w nadziei, że doprowadzi do globalnie optymalnego rozwiązania.
+AZ nie zawsze prowadzi do optymalnych rozwiązań, ale często jest wystarczający.
