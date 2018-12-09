@@ -1,0 +1,6 @@
+Algorytm jest ściśle określoną procedurą obliczeniową, która dla właściwych danych wejściowych produkuje żądane dane wyjściowe zwane wynikiem.
+Algorytm jest poprawny, jeśli dla każdego egzemplarza problemu zatrzymuje się i daje dobry wynik.
+Struktura danych to środek służący do przechowywania i organizowania danych w celu ułatwienia dostępu do nich oraz ich modyfikacji.
+Problemy NP-zupełne - nei znaleziono efektywnego algorytmu rozwiązującego, ale nikt nie udowodnił, że taki algorytm nie moze istnieć.
+Problem komiwojażera jest NP-zupełny.
+Otoczka wypukła zbioru punktów to najmniejszy wielokąt wypukły taki, że każdy punkt ze zbioru leży albo na brzegu wielokąta albo w jego wnętrzu.
